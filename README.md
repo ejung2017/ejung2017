@@ -1,9 +1,7 @@
 <h1 align="center">Hi , I'm Eunah Jung</h1>
-<h3 align="center">Automation tester interested in AI/ML</h3>
+<h3 align="center">Interested in Data Analytics and Machine Learning</h3>
 
 - 👨‍💻 All of my projects are available [here](https://github.com/ejung2017?tab=repositories)!
-
-- 💬 Ask me about **python, swift, CI/CD**
 
 - 📫 How to reach me **jungeunah98@gmail.com**
 
